@@ -37,3 +37,7 @@ A data science capstone project exploring factors associated with professor rati
 - Adding more predictors yielded marginal improvement (AUROC = 0.779)
 ### Exploratory Analysis
 - STEM vs. non-STEM field showed no significant difference in professor ratings (p = 0.90)
+
+## Files
+- `Professor Rating Analysis Project Report.pdf` — project report with visualizations
+- `professor-rating-analysis-project.py` — full code
